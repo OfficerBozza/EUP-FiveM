@@ -1,6 +1,9 @@
 # EUP-FiveM
 Official Public EUP Release for FiveM
 
+This repository contains all of the clothing assets in the two main EUP Packs in a FiveM-ready format.
+This repository does not contain any menus of any kind. It is up to you to find a way to select these in your server.
+
 # What's with all this stuff I hear about Patreon, license keys and Element Club?
 
 For servers with over 8 player slots, you are required to be pledged to __[FiveM's Patreon](https://www.patreon.com/fivem)__ with Element Club Argentum or higher in order to be able to stream any custom clothing mods for MP characters and other similar player characters. (EUP is one such mod.)
