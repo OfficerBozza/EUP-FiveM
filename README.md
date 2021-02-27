@@ -4,7 +4,7 @@ Official Public EUP Release for FiveM (Current Version L&O-8.2 / S&R-1.4)
 This repository contains all of the clothing assets in the two main EUP Packs in a FiveM-ready format.
 This repository does not contain any menus of any kind. It is up to you to find a way to select these in your server. (Waiting on an publicly accessible EUP Menu for FiveM to be released. We are currently working with someone who is making a higher-quality copy of eup-ui)
 
-[Join our Discord](https://discord.gg/aTQfepT)
+[Join our Discord](https://discord.gg/aTQfepT) [If you are in a leaking server you will be banned.]
 
 ## DLC compatibility with FiveM and EUP 8.2+ [Important]
 
